@@ -1,1 +1,1 @@
-# Diário de progresso — Linux
+# Diário de progresso — EFQ
